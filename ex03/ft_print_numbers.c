@@ -6,7 +6,7 @@
 /*   By: calcifer <calcifer@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/03/16 19:13:08 by calcifer          #+#    #+#             */
-/*   Updated: 2024/03/16 19:23:51 by calcifer         ###   ########.fr       */
+/*   Updated: 2024/03/16 19:35:17 by calcifer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,8 +24,10 @@ void	ft_print_numbers(void)
 	}
 }
 
+/*
 int	main(void)
 {
 	ft_print_numbers();
 	return (0);
 }
+*/
